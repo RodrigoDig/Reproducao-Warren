@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a:active, a:visited, a:link{
+    color: inherit;
+    display: inline-block;
+    text-decoration: none;
+}
