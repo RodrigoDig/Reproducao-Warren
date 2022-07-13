@@ -1,3 +1,32 @@
+@font-face {
+    font-family: fonte1;
+    src: url(../assets/font/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2);
+}
+@font-face {
+    font-family: fonte2;
+    src: url(../assets/font/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdu.woff2);
+}
+@font-face {
+    font-family: fonte3;
+    src: url(../assets/font/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2);
+}
+@font-face {
+    font-family: fonte4;
+    src: url(../assets/font/sourcesanspro-light-webfont.woff2);
+}
+@font-face {
+    font-family: fonte5;
+    src: url(../assets/font/WarrenDisplay-Bold.woff2);
+}
+@font-face {
+    font-family: fonte6;
+    src: url(../assets/font/WarrenText-Bold.woff2);
+}
+@font-face {
+    font-family: fonte7;
+    src: url(../assets/font/WarrenText-Regular.woff2);
+}
+
 *{
     margin: 0px;
     box-sizing: border-box;

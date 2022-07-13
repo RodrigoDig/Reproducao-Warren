@@ -1,0 +1,611 @@
+.faixa-principal{
+    display: flex;
+    flex-direction: column;
+
+    background-image: url(../../assets/image/educacao_in_company_desk_min.jpg);
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-position-y:-90px ;
+    height: 83vh;
+}
+
+.imagem-logo{
+    padding-top:1.2em ;
+    padding-left: 2em;
+
+    cursor: pointer;
+
+}
+
+.texto-1{
+    padding-top:2.4em ;
+    padding-left: 10em;
+
+    width: 40em;
+}
+
+.texto-1 h1{
+    font-family: fonte5;
+    font-size: 51px;
+
+    color: #fff;
+
+    line-height: 56px;
+}
+
+.botao{
+    padding-left: 10em;
+    padding-top: 2.2em;
+}
+
+.butoon{
+    font-family: fonte3;
+    font-size:1em ;
+    text-transform: uppercase;
+    
+    border: #ee2e5d;
+
+    color:#fff ;
+    background-color: #ee2e5d;
+
+    border-radius: 10em;
+
+    text-align: center;
+    padding: 1.6em 2.6em;
+    cursor: pointer;
+
+}
+
+.faixa-2{
+    display: flex;
+    flex-direction: row;
+    
+    height: 60vh;
+
+    padding-left: 15em;
+    padding-top: 6.3em;
+}
+
+.titulo-1{
+    font-family: fonte6;
+    font-size: 10px;
+    color: #666666;
+    
+}
+
+.titulo-2{
+    font-size: 17px;
+    font-family:fonte5;
+    line-height: 32px;
+    
+    width: 25em;
+    
+}
+
+.paragrafo{
+    font-family:fonte1 ;
+
+
+    padding-left: 7em; 
+    width: 36em;   
+}
+
+.paragrafo p{
+    padding-bottom: 2em;
+}
+
+.faixa-3{
+    display: flex;
+    flex-direction: row;
+
+    background-color:#F5F6FA ;
+    height: 88vh;
+}
+
+.textos{
+    margin-top: 10em;
+}
+
+.titulo-3{
+    font-family: fonte6;
+    font-size: 10px;
+    line-height: 18px;
+
+    color: #666666;
+
+    margin-left: 25em;
+}
+
+.titulo-4{
+    font-family: fonte5;
+    font-size: 29px;
+
+    line-height:44px ;
+
+    margin-left: 8.5em;
+    padding-bottom:0.5em ;
+}
+
+.lista{
+    font-size:1.3em;
+    font-family: fonte1;
+
+    color: #2E2D33;
+
+    margin-left: 11em;
+}
+
+.lista li{
+    padding-top: 1em;
+}
+
+.cambada{
+    margin-top:10em ;
+    margin-left: 10em;
+}
+
+.faixa-4{
+    display: flex;
+    flex-direction: row;
+
+    background-color:#1c1b1f;
+    height: 76vh;
+}
+
+.titulos-5{
+    margin-top: 10em;
+    margin-left: 16em; 
+}
+
+.titulos-5 h1{
+    font-family: fonte6;
+    font-size:1em ;
+
+    color:#666666;
+}
+
+.text-h-2{
+    font-family: fonte5;
+    font-size: 2.6em;
+    width: 10em;
+}
+
+.mini-textos{
+    font-family: fonte1;
+
+    width:24.2em ;
+    margin-top: 12.5em;
+    margin-left: 10em;
+    
+    color: #FFF;
+}
+
+.mini-textos p{
+    padding: 0.8em;
+}
+
+.faixa-5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    height: 46vh;
+
+    background-color: black;
+    background-image: url(../../assets/image/quote_warren_educacao_company.png);
+    background-repeat: no-repeat;
+    background-position-x:32.5em;
+    background-position-y: 7.5em; 
+}
+
+.texto-faixa-5{
+    font-family: fonte7;
+    font-size: 16px;
+    line-height: 28px;
+
+    color: #FFF;
+
+    text-align: center;
+    width: 31.8em;
+}
+
+.titulo-faixa-5{
+    font-family:fonte4 ;
+    font-size: 13px;
+
+    color: #FFF;
+
+    padding-top: 1.7em;
+}
+
+.faixa-6{
+    display: flex;
+    flex-direction: column;
+
+    height:104vh ;
+    background-color: #f5f6fa;
+}
+
+.textos-faixa-6{
+    margin-top: 10em;
+    margin-left: 15em;
+}
+
+.textos-faixa-6 h1{
+    font-size:15px ;
+    font-family:fonte6 ;
+
+    color: #666666;
+}
+
+.textos-faixa-6 h2{
+    font-size: 2.4em;
+    width: 20em;
+}
+.estrutura-imagens{
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 9.2em;
+}
+
+.hospitalimg{
+    height: 4em;
+    margin-left: 17em;
+}
+
+.vivoimg{
+    height: 2.5em;
+    margin-left: 9em;
+}
+
+.piccadillyimg{
+    height: 1em;
+    margin-left: 9.3em;
+}
+
+.lorealimg{
+    height: 1.2em;
+    margin-left: 9.5em;
+}
+
+.mrvimg{
+    height: 2.2em;
+   padding-left: 32.3em;
+}
+
+.merlinimg{
+    height: 4em;
+    padding-left: 4.5em;
+}
+
+.sapimg{
+    height: 3em;
+    padding-left: 4.7em;
+}
+
+.estrutura-imagens-2{
+    display: flex;
+    flex-direction: row;
+    
+    margin-top: 5.5em;
+    
+}
+
+.faixa-7{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #1c1b1f;
+    height: 29vh;
+}
+
+.botao-2{
+    font-family: fonte3;
+    font-size:1em ;
+    text-transform: uppercase;
+    
+    border: #ee2e5d;
+
+    color:#fff ;
+    background-color: #ee2e5d;
+
+    border-radius: 10em;
+
+    text-align: center;
+    padding: 1.6em 2.6em;
+    cursor: pointer;
+}
+
+.faixa-8{
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 9.5em;
+    margin-left: 15em;
+}
+
+.titulos-faixa-8 h1{
+    font-family: fonte6;
+    font-size: 1em;
+
+    color: #666666;
+}
+
+.titulos-faixa-8 h2{
+    font-size:3.4em ;
+    font-family:fonte5;
+
+    margin-bottom: 2em;
+}
+
+.caixa-textos{
+    display: flex;
+    flex-direction: row;
+
+    height:24em ;
+
+    width: 70em;
+
+    margin-left: -2.5em;
+    margin-bottom: 13em;
+}
+
+.bloco-1{
+    background-color: #F5F6FA;
+    border-radius: 11px;
+
+    margin-left: 2em;
+    padding-left:4em ;
+}
+
+.bloco-1 img{
+    margin-top: 2em;
+    margin-left: -2em;
+}
+
+.bloco-1 p{
+    font-family:fonte1 ;
+    font-size: 15.1px;
+    line-height: 1.25rem;
+
+    width: 18em;
+
+    margin-top: 1.1em;
+    margin-bottom: 1.3em;
+    margin-left: -2em;
+    margin-right: 3em;
+}
+
+.bloco-1 h3{
+    font-family: fonte1;
+    font-size: 15px;
+
+    margin-left: -1.8em;
+    margin-bottom: -1em;
+}
+
+.imagem-8{
+    height: 2.7em;
+}
+
+.faixa-9{
+    display: flex;
+    flex-direction: row;
+
+    background-color: #ee2e5d;
+    height: 48em;
+}
+
+.textos-faixa-9{
+    margin-top: 10em;
+    margin-left: 16em;
+
+    width: 29em;
+}
+
+.textos-faixa-9 h1{
+    font-size: 1em;
+    font-family: fonte6;
+
+    color: #FFF;
+}
+
+.textos-faixa-9 h2{
+    font-size: 3.2em;
+    font-family: fonte5;
+
+    color: #FFF;
+
+    margin-bottom: 0.3em;
+}
+
+.textos-faixa-9 p{
+    font-family: fonte1;
+    font-size:1em ;
+    line-height: 28px;
+
+    color: #fff;
+
+    padding-top: 2.1em;
+}
+
+.imagem-celular img{
+    height: 34em;
+    margin-left: 9em;
+    margin-top: 9.5em;
+}
+
+.faixa-10{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    height: 137vh    ;
+}
+
+.textos-faixa-10{
+margin-top: 6.8em;
+}
+
+.textos-faixa-10 h1{
+    font-family: fonte5;
+    font-size: 3.2em;
+
+    padding-bottom:1.2em ;
+
+    text-align: center;
+}
+
+.textos-faixa-10 p{
+    font-family: fonte1;
+    text-align: center;
+
+    color: #666666;
+
+    width: 45em;
+    padding-bottom: 1em;
+}
+
+.formulario-faixa-10{
+    display: flex;
+    flex-direction: column;
+
+    width: 47em;
+}
+
+.f10-form-row{
+    display: flex;
+    flex-direction: row;
+
+    font-family: fonte1;
+    font-size: 15px;
+
+    margin: 0.2em 0em;
+}
+
+.form-field{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+
+    padding: 0em 1em;
+    margin-bottom: 2.8em;
+}
+
+.form-field input{
+    background-color: #f5f6fa;
+    border: none;
+    outline: none;
+
+    padding: 13px;
+}
+
+.form-field select{
+    background-color: #f5f6fa;
+    border: none;
+    outline: none;
+
+    padding: 13px;
+}
+
+.form-field textarea{
+    background-color: #f5f6fa;
+    border: none;
+    outline: none;
+
+    padding: 13px;
+}
+
+.f10-form-row label{
+    margin: 0.5em 0em;
+}
+
+.texto-concordo{
+    display: flex;
+    flex-direction: row;
+
+    font-family: fonte1;
+    line-height: 1.5rem;
+
+    color: #2E2D33;
+    width:43em ;
+
+    padding-bottom: 3em;
+}
+
+.botao-enviar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ultimo-botao{
+    font-family: fonte3;
+    font-size:1.2em ;
+    text-transform: uppercase;
+    
+    border: #ee2e5d;
+
+    color:#fff ;
+    background-color: #ee2e5d;
+
+    border-radius: 0.5em;
+
+    text-align: center;
+    padding: 1.4em 2.6em;
+    cursor: pointer;
+}
+
+.faixa-11{
+    display: flex;
+    flex-direction: row;
+
+    height: 13em;
+    background-color:#2e2d33;
+}
+
+.f11-componentes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    width: 80em;
+    margin-top: 4.8em;
+    margin-left: 5.5em;
+}
+
+.f11-imagem-1{
+    margin-left:9em ;
+}
+
+.f11-redes-sociais{
+    margin-left:9em;
+}
+
+.f11-informações{
+    text-align: center;
+    
+    color: #fff;
+}
+
+.f11-informações p{
+    display: flex;
+    flex-direction: column;
+
+    font-family:fonte1 ;
+    
+    margin-top: -30px;
+
+    width: 14em;
+    padding: 17px;   
+}
+
+.f11-informações h1{
+    padding-top: 1px;
+    font-family: fonte2;
+    font-size: 11.3px;
+}
